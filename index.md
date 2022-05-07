@@ -81,12 +81,6 @@
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
-
-
-# 目录
-
-[TOC]
-
 # 第1章 基础数据类型
 
 ## 1.1 布尔类型(bool)
