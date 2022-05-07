@@ -4312,7 +4312,7 @@ reqCtx.Logger.Infow("access_log",
 #### 5.4.3.2 远程配置模式
 
 ```shell
-./main --env=dev --apolloAddr=[http://192.168.124.184:57071](http://192.168.124.184:57071/) --apolloAppId=com.example.apollo-go --apolloNamespaceName=application --apolloCluster=default
+./main --env=dev --apolloAddr=[http://127.0.0.1:57071](http://127.0.0.1:57071/) --apolloAppId=com.example.apollo-go --apolloNamespaceName=application --apolloCluster=default
 ```
 
 
