@@ -1,8 +1,6 @@
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 - [目录](#%E7%9B%AE%E5%BD%95)
-
-- [目录](#%E7%9B%AE%E5%BD%95)
 - [第1章 基础数据类型](#%E7%AC%AC1%E7%AB%A0-%E5%9F%BA%E7%A1%80%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B)
   - [1.1 布尔类型(bool)](#11-%E5%B8%83%E5%B0%94%E7%B1%BB%E5%9E%8Bbool)
   - [1.2 字符串(string)](#12-%E5%AD%97%E7%AC%A6%E4%B8%B2string)
